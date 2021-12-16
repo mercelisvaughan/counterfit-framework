@@ -5,7 +5,7 @@ JupyterLab
 
 Step 1.
 To use the counterfit framework you are going to have to clone the repository from the "upload" branch of this repo
-'git clone https://github.com/Azure/counterfit.git'
+using the 'git clone' command
 
 Step 2.
 After cloning the repo, you are going to open up the terminal/console/.
