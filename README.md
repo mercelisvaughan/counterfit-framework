@@ -1,6 +1,7 @@
 # counterfit
 use the counterfit framework to test risk analysis on machine learning models
-********* SWITCH TO THE UPLOAD BRANCH IN ORDER TO PULL THE CODE"
+
+********* SWITCH TO THE UPLOAD BRANCH IN ORDER TO USE THE CODE *********
 
 Prerequisuites:
 Python 3.7 or higher
