@@ -6,16 +6,22 @@ JupyterLab
 Step 1.
 To use the counterfit framework you are going to have to clone the repository from the "upload" branch of this repo
 'git clone https://github.com/Azure/counterfit.git'
+
 Step 2.
 After cloning the repo, you are going to open up the terminal/console/.
+
 Step 3.
 Change directories with 'cd counterfit'
+
 Step 4.
 Create an instance of counterfit using 'conda create --yes -n counterfit python=3.8.8'
+
 Step 5.
 Use the activate command 'conda activate counterfit'
+
 Step 6.
 Install any missing requirements 'pip install -r requirements.txt'
+
 Step 7.
 Start counterfit 'python counterfit.py'
 
